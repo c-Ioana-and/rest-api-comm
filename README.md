@@ -1,7 +1,6 @@
-# TEMA 4 PCOM - Client Web. Comunicaţie cu REST API - CEPOIU IOANA-ANDREEA, 321CB
+# Client Web. Comunicaţie cu REST API
 
-Aceasta tema a fost implementata in C, folosind biblioteca parson pentru par-
-sarea raspunsurilor primite de la server, precum si scheletul laboratorului 9.
+Acest proiect a fost implementata in C, folosind biblioteca parson pentru parsarea raspunsurilor primite de la server, precum si scheletul laboratorului 9.
 Proiectul are urmatoarea structura:
 - **buffer.c** - contine functiile necesare pentru utilizarea bufferelor corespunzatoare
 comenzilor;
